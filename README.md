@@ -20,9 +20,9 @@ Completion %
 
 We will use Splinter and Pandas to extract data.
 
-**Transform**
+**Transform:**
 <ul>SQL</ul>
 
-**Load**
+**Load:**
 <ul>MongoBD</ul>
 <ul>Postgres</ul>
