@@ -21,7 +21,7 @@ Completion %
 We will use Splinter and Pandas to extract data.
 
 **Transform**
-SQL
+<ul>SQL</ul>
 
 **Load**
 <ul>MongoBD</ul>
