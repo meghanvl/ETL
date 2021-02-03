@@ -16,6 +16,4 @@ Pro-Football Reference:
 We transformed the data we scraped using SQL, Pandas, Jupyter Notebook, Beautiful Soup and SQLAlchemy. 
 
 **Load:**
-We loaded the data using MongoDB and Postgres.
-
-
+We then loaded the data using Postgres.
