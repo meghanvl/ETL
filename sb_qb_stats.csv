@@ -1,0 +1,109 @@
+season,super_bowl,quarterback,team,win_vs_loss,passer_rating,comp_percent,ypa,int_percent,yds,td
+1966,I,Bart Starr,Green Bay Packers,Win,80.5,57.4%,7.8,4.4%,24718,152
+1966,I,Len Dawson,Kansas City Chiefs,Loss,82.6,57.1%,7.7,4.9%,28711,239
+1967,II,Daryle Lamonica,Oakland Raiders,Loss,72.9,49.5%,7.4,5.3%,19154,164
+1967,II,Bart Starr,Green Bay Packers,Win,80.5,57.4%,7.8,4.4%,24718,152
+1968,III,Joe Namath,New York Jets,Win,65.5,50.1%,7.4,5.8%,27663,173
+1968,III,Earl Morrall,Baltimore Colts,Loss,74.1,51.3%,7.7,5.5%,20809,161
+1969,IV,Joe Kapp,Minnesota Vikings,Loss,55.1,48.9%,6.4,7.0%,5911,40
+1969,IV,Len Dawson,Kansas City Chiefs,Win,82.6,57.1%,7.7,4.9%,28711,239
+1970,V,Craig Morton,Dallas Cowboys,Loss,73.5,54.2%,7.4,4.9%,27908,183
+1970,V,Johnny Unitas,Baltimore Colts,Win,78.2,54.6%,7.8,4.9%,40239,290
+1971,VI,Roger Staubach,Dallas Cowboys,Win,83.4,57.0%,7.7,3.7%,22700,153
+1971,VI,Bob Griese,Miami Dolphins,Loss,77.1,56.2%,7.3,5.0%,25092,192
+1972,VII,Bob Griese,Miami Dolphins,Win,77.1,56.2%,7.3,5.0%,25092,192
+1972,VII,Billy Kilmer,Washington Redskins,Loss,71.6,53.1%,6.9,4.9%,20495,152
+1973,VIII,Bob Griese,Miami Dolphins,Win,77.1,56.2%,7.3,5.0%,25092,192
+1973,VIII,Fran Tarkenton,Minnesota Vikings,Loss,80.4,57.0%,7.3,4.1%,47003,342
+1974,IX,Fran Tarkenton,Minnesota Vikings,Loss,80.4,57.0%,7.3,4.1%,47003,342
+1974,IX,Terry Bradshaw,Pittsburgh Steelers,Win,70.9,51.9%,7.2,5.4%,27989,212
+1975,X,Roger Staubach,Dallas Cowboys,Loss,83.4,57.0%,7.7,3.7%,22700,153
+1975,X,Terry Bradshaw,Pittsburgh Steelers,Win,70.9,51.9%,7.2,5.4%,27989,212
+1976,XI,Ken Stabler,Oakland Raiders,Win,75.3,59.8%,7.4,5.9%,27938,194
+1976,XI,Fran Tarkenton,Minnesota Vikings,Loss,80.4,57.0%,7.3,4.1%,47003,342
+1977,XII,Craig Morton,Denver Broncos,Loss,73.5,54.2%,7.4,4.9%,27908,183
+1977,XII,Roger Staubach,Dallas Cowboys,Win,83.4,57.0%,7.7,3.7%,22700,153
+1978,XIII,Terry Bradshaw,Pittsburgh Steelers,Win,70.9,51.9%,7.2,5.4%,27989,212
+1978,XIII,Roger Staubach,Dallas Cowboys,Loss,83.4,57.0%,7.7,3.7%,22700,153
+1979,XIV,Terry Bradshaw,Pittsburgh Steelers,Win,70.9,51.9%,7.2,5.4%,27989,212
+1979,XIV,Vince Ferragamo,Los Angeles Rams,Loss,70.1,55.9%,7.0,5.6%,11336,76
+1980,XV,Jim Plunkett,Oakland Raiders,Win,67.5,52.5%,7.0,5.3%,25882,164
+1980,XV,Ron Jaworski,Philadelphia Eagles,Loss,72.8,53.1%,6.8,4.0%,28190,179
+1981,XVI,Joe Montana,San Francisco 49ers,Win,92.3,63.2%,7.5,2.6%,40551,273
+1981,XVI,Ken Anderson,Cincinnati Bengals,Loss,81.9,59.3%,7.3,3.6%,32838,197
+1982,XVII,Joe Theismann,Washington Redskins,Win,77.4,56.7%,7.0,3.8%,25206,160
+1982,XVII,David Woodley,Miami Dolphins,Loss,65.7,52.8%,6.6,4.8%,8558,48
+1983,XVIII,Joe Theismann,Washington Redskins,Loss,77.4,56.7%,7.0,3.8%,25206,160
+1983,XVIII,Jim Plunkett,Los Angeles Raiders,Win,67.5,52.5%,7.0,5.3%,25882,164
+1984,XIX,Joe Montana,San Francisco 49ers,Win,92.3,63.2%,7.5,2.6%,40551,273
+1984,XIX,Dan Marino,Miami Dolphins,Loss,86.4,59.4%,7.3,3.0%,61361,420
+1985,XX,Jim McMahon,Chicago Bears,Win,78.2,58.0%,7.1,3.5%,18148,100
+1985,XX,Tony Eason,New England Patriots,Loss,79.7,58.2%,7.1,3.3%,11142,61
+1986,XXI,John Elway,Denver Broncos,Loss,79.9,56.9%,7.1,3.1%,51475,300
+1986,XXI,Phil Simms,New York Giants,Win,78.5,55.4%,7.2,3.4%,33462,199
+1987,XXII,John Elway,Denver Broncos,Loss,79.9,56.9%,7.1,3.1%,51475,300
+1987,XXII,Doug Williams,Washington Redskins,Win,69.4,49.5%,6.8,3.7%,16998,100
+1988,XXIII,Boomer Esiason,Cincinnati Bengals,Loss,81.1,57.0%,7.3,3.5%,37920,247
+1988,XXIII,Joe Montana,San Francisco 49ers,Win,92.3,63.2%,7.5,2.6%,40551,273
+1989,XXIV,John Elway,Denver Broncos,Loss,79.9,56.9%,7.1,3.1%,51475,300
+1989,XXIV,Joe Montana,San Francisco 49ers,Win,92.3,63.2%,7.5,2.6%,40551,273
+1990,XXV,Jeff Hostetler,New York Giants,Win,80.5,58.0%,7.0,3.0%,16430,94
+1990,XXV,Jim Kelly,Buffalo Bills,Loss,84.4,60.1%,7.4,3.7%,35467,237
+1991,XXVI,Mark Rypien,Washington Redskins,Win,78.9,56.1%,7.1,3.4%,18473,115
+1991,XXVI,Jim Kelly,Buffalo Bills,Loss,84.4,60.1%,7.4,3.7%,35467,237
+1992,XXVII,Jim Kelly,Buffalo Bills,Loss,84.4,60.1%,7.4,3.7%,35467,237
+1992,XXVII,Troy Aikman,Dallas Cowboys,Win,81.6,61.5%,7.0,3.0%,32942,165
+1993,XXVIII,Jim Kelly,Buffalo Bills,Loss,84.4,60.1%,7.4,3.7%,35467,237
+1993,XXVIII,Troy Aikman,Dallas Cowboys,Win,81.6,61.5%,7.0,3.0%,32942,165
+1994,XXIX,Steve Young,San Francisco 49ers,Win,96.8,64.3%,8.0,2.6%,33124,232
+1994,XXIX,Stan Humphries,San Diego Chargers,Loss,75.8,56.9%,6.8,3.3%,17191,89
+1995,XXX,Troy Aikman,Dallas Cowboys,Win,81.6,61.5%,7.0,3.0%,32942,165
+1995,XXX,Neil O'Donnell,Pittsburgh Steelers,Loss,81.8,57.8%,6.7,2.1%,21690,120
+1996,XXXI,Brett Favre,Green Bay Packers,Win,86.0,62.0%,7.1,3.3%,71838,508
+1996,XXXI,Drew Bledsoe,New England Patriots,Loss,77.1,57.2%,6.6,3.1%,44611,251
+1997,XXXII,Brett Favre,Green Bay Packers,Loss,86.0,62.0%,7.1,3.3%,71838,508
+1997,XXXII,John Elway,Denver Broncos,Win,79.9,56.9%,7.1,3.1%,51475,300
+1998,XXXIII,John Elway,Denver Broncos,Win,79.9,56.9%,7.1,3.1%,51475,300
+1998,XXXIII,Chris Chandler,Atlanta Falcons,Loss,79.1,58.1%,7.1,3.6%,28484,170
+1999,XXXIV,Kurt Warner,St. Louis Rams,Win,93.7,65.5%,7.9,3.1%,32344,208
+1999,XXXIV,Steve McNair,Tennessee Titans,Loss,82.8,60.1%,6.9,2.6%,31304,174
+2000,XXXV,Trent Dilfer,Baltimore Ravens,Win,70.2,55.5%,6.5,4.1%,20518,113
+2000,XXXV,Kerry Collins,New York Giants,Loss,73.8,55.7%,6.5,3.1%,40922,208
+2001,XXXVI,Kurt Warner,St. Louis Rams,Loss,93.7,65.5%,7.9,3.1%,32344,208
+2001,XXXVI,Tom Brady,New England Patriots,Win,97.3,64.0%,7.5,1.8%,79204,581
+2002,XXXVII,Brad Johnson,Tampa Bay Buccaneers,Win,82.5,61.7%,6.7,2.8%,29054,166
+2002,XXXVII,Rich Gannon,Oakland Raiders,Loss,84.7,60.2%,6.8,2.5%,28743,180
+2003,XXXVIII,Tom Brady,New England Patriots,Win,97.3,64.0%,7.5,1.8%,79204,581
+2003,XXXVIII,Jake Delhomme,Carolina Panthers,Loss,81.3,59.4%,7.2,3.4%,20975,126
+2004,XXXIX,Donovan McNabb,Philadelphia Eagles,Loss,85.6,59.0%,6.9,2.2%,37276,234
+2004,XXXIX,Tom Brady,New England Patriots,Win,97.3,64.0%,7.5,1.8%,79204,581
+2005,XL,Matt Hasselbeck,Seattle Seahawks,Loss,82.4,60.5%,6.9,2.9%,36638,212
+2005,XL,Ben Roethlisberger,Pittsburgh Steelers,Win,94.0,64.4%,7.7,2.6%,60348,396
+2006,XLI,Peyton Manning,Indianapolis Colts,Win,96.5,65.3%,7.7,2.7%,71940,539
+2006,XLI,Rex Grossman,Chicago Bears,Loss,71.4,55.2%,6.6,3.8%,10232,56
+2007,XLII,Eli Manning,New York Giants,Win,84.1,60.3%,7.0,3.0%,57023,366
+2007,XLII,Tom Brady,New England Patriots,Loss,97.3,64.0%,7.5,1.8%,79204,581
+2008,XLIII,Ben Roethlisberger,Pittsburgh Steelers,Win,94.0,64.4%,7.7,2.6%,60348,396
+2008,XLIII,Kurt Warner,Arizona Cardinals,Loss,93.7,65.5%,7.9,3.1%,32344,208
+2009,XLIV,Drew Brees,New Orleans Saints,Win,98.7,67.7%,7.6,2.3%,80358,571
+2009,XLIV,Peyton Manning,Indianapolis Colts,Loss,96.5,65.3%,7.7,2.7%,71940,539
+2010,XLV,Ben Roethlisberger,Pittsburgh Steelers,Loss,94.0,64.4%,7.7,2.6%,60348,396
+2010,XLV,Aaron Rodgers,Green Bay Packers,Win,103.9,65.1%,7.8,1.4%,51245,412
+2011,XLVI,Tom Brady,New England Patriots,Loss,97.3,64.0%,7.5,1.8%,79204,581
+2011,XLVI,Eli Manning,New York Giants,Win,84.1,60.3%,7.0,3.0%,57023,366
+2012,XLVII,Colin Kaepernick,San Francisco 49ers,Loss,88.9,59.8%,7.3,1.8%,12271,72
+2012,XLVII,Joe Flacco,Baltimore Ravens,Win,84.1,61.7%,6.7,2.4%,40931,224
+2013,XLVIII,Peyton Manning,Denver Broncos,Loss,96.5,65.3%,7.7,2.7%,71940,539
+2013,XLVIII,Russell Wilson,Seattle Seahawks,Win,101.7,65.1%,7.8,1.9%,33946,267
+2014,XLIX,Russell Wilson,Seattle Seahawks,Loss,101.7,65.1%,7.8,1.9%,33946,267
+2014,XLIX,Tom Brady,New England Patriots,Win,97.3,64.0%,7.5,1.8%,79204,581
+2015,50,Cam Newton,Carolina Panthers,Loss,85.8,60.1%,7.3,2.7%,31698,190
+2015,50,Peyton Manning,Denver Broncos,Win,96.5,65.3%,7.7,2.7%,71940,539
+2016,LI,Matt Ryan,Atlanta Falcons,Loss,94.5,65.4%,7.5,2.1%,55767,347
+2016,LI,Tom Brady,New England Patriots,Win,97.3,64.0%,7.5,1.8%,79204,581
+2017,LII,Nick Foles,Philadelphia Eagles,Win,87.1,62.3%,6.8,2.1%,13753,81
+2017,LII,Tom Brady,New England Patriots,Loss,97.3,64.0%,7.5,1.8%,79204,581
+2018,LIII,Jared Goff,Los Angeles Rams,Loss,91.5,63.4%,7.5,2.3%,18171,107
+2018,LIII,Tom Brady,New England Patriots,Win,97.3,64.0%,7.5,1.8%,79204,581
+2019,LIV,Jimmy Garoppolo,San Francisco 49ers,Loss,98.9,67.5%,8.2,2.7%,8042,51
+2019,LIV,Patrick Mahomes,Kansas City Chiefs,Win,108.7,66.0%,8.4,1.4%,14152,114
